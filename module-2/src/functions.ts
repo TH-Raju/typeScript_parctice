@@ -20,6 +20,7 @@ const person: {
   name: string;
   balance: number;
   addBalance(m: number): void;
+  
 } = {
   name: "Raju",
   balance: 5,
