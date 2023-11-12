@@ -1,0 +1,11 @@
+"use strict";
+const course = "Next Level dev Raj";
+let rollNum = 484201;
+let names;
+let istrue;
+names = "raju";
+istrue = false;
+let cousrseType = undefined;
+cousrseType = "string";
+cousrseType = 123;
+// console.log(course);
