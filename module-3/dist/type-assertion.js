@@ -5,6 +5,8 @@ emni = "Emni";
 // emni.
 // but type assertion kore bole dile ata ki type tahle methods pabo
 emni.length;
+// evabe o lekha jay
+emni;
 function kgToGram(param) {
     if (typeof param === "string") {
         const value = parseFloat(param) * 1000;
